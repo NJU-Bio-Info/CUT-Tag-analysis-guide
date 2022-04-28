@@ -9,3 +9,5 @@
 ### Guide for ChIP-seq data analysis:
 
 [1] Methods for ChIP-seq analysis A practical workflow and .pdf
+
+[2] https://hbctraining.github.io/Intro-to-ChIPseq/lessons/05_peak_calling_macs.html
